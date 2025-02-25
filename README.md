@@ -21,7 +21,7 @@ University of Information Technology and Sciences (UITS)
 - **Course Code:** CSE 438  
 - **Course Title:** Digital Image Processing Lab  
 - **Section:** 8A (50th Batch)  
-- **Date:** 5 February, 2025  
+- **Date:** 5 February, 2025  (ABSENT)
 
 ---
 
